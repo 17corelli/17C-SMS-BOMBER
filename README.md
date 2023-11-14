@@ -1,3 +1,9 @@
 # 40-SMS-BOMBER
-Kötü amaçlı kullanımın sorumluluğu size aittir.
+ not  : Kötü amaçlı kullanımın sorumluluğu size aittir.
+by 17corelli 
+ Kullanım :
+ start.bat açın
+ şifre kısmına 17corelli yazın
+ program açılacaktır
 
+ 
