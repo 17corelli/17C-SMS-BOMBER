@@ -1,2 +1,3 @@
 # 40-SMS-BOMBER
-+90 sms bomber , 
+Kötü amaçlı kullanımın sorumluluğu size aittir.
+
