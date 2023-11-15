@@ -2,9 +2,11 @@
 <h2>Kullanım</h2>
  start.bat açın
  program açılacaktır
+
+ 
 Termux / Linux Kurulum
 git clone https://github.com/17corelli/40-SMS-BOMBER.git
-cd 40-SMS-BOMBER-main
+cd 40-SMS-BOMBER
 pip install -r requirements.txt
 python 17.py
 
