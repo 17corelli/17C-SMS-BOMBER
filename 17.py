@@ -22,7 +22,7 @@ while 1:
     | | | |_| |  ____) | |  | |____) | | |_) | |__| | |  | | |_) | |____| | \ \ 
     |_|  \___/  |_____/|_|  |_|_____/  |____/ \____/|_|  |_|____/|______|_|  \_\
     
-    Sms: {}           {} {17cc}\n  
+    Sms: {}           {}17CProjects {}17ccchecker.online cok yakinda geri donuyoruzz...\n  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
         menu = (input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gönder (Normal 1x)\n\n 2- SMS Gönder (100x)\n\n 3- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
