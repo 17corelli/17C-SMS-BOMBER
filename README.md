@@ -5,7 +5,7 @@
 
  
 Termux / Linux Kurulum
-git clone https://github.com/17corelli/40-SMS-BOMBER.git
+git clone https://github.com/17corelli/17C-SMS-BOMBER.git
 cd 40-SMS-BOMBER
 pip install -r requirements.txt
 python3 17.py
