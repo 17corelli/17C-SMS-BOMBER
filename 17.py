@@ -17,12 +17,12 @@ while 1:
     print("""{}
    _  _    ___     _____ __  __  _____   ____   ____  __  __ ____  ______ _____  
  | || |  / _ \   / ____|  \/  |/ ____| |  _ \ / __ \|  \/  |  _ \|  ____|  __ \ 
- | || |_| | | | | (___ | \  / | (___   | |_) | |  | | \  / | |_) | |__  | |__) |
- |__   _| | | |  \___ \| |\/| |\___ \  |  _ <| |  | | |\/| |  _ <|  __| |  _  / 
+ | || |_| | | | | (___ | \  / | (___   | |_) | |  | | \  / | |_) | |__  | |__) |    
+ |__   _| | | |  \___ \| |\/| |\___ \  |  _ <| |  | | |\/| |  _ <|  __| |  _  /     17ccchecker.online yakinda geri donuyoruzz
     | | | |_| |  ____) | |  | |____) | | |_) | |__| | |  | | |_) | |____| | \ \ 
     |_|  \___/  |_____/|_|  |_|_____/  |____/ \____/|_|  |_|____/|______|_|  \_\
     
-    Sms: {}           {} {17ccchecker.online yakinda geri donuyoruz}\n  
+    Sms: {}           {} {17cc}\n  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
         menu = (input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gönder (Normal 1x)\n\n 2- SMS Gönder (100x)\n\n 3- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
