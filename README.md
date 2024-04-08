@@ -1,4 +1,4 @@
-# 40-SMS-BOMBER
+# 17C⛦ Projects
 <h2>Kullanım</h2>
  start.bat açın
  program açılacaktır
