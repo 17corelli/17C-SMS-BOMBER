@@ -1,3 +1,7 @@
+# 17C⛦ Projects
+<h2>GNU AFFERO GENERAL PUBLIC LICENSE</h2>
+     
+     
      GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
